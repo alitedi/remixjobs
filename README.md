@@ -90,7 +90,7 @@ limit | Jobs number
 * Return all jobs of the current day
 
 ### /companies
-```
+
 
 * Return all companies
 * Return all jobs of a the given companies
