@@ -1,6 +1,6 @@
 # Remixjobs
 
-> Unofficial Remixjobs API
+> Unofficial Remixjobs API CREATED BY ALIREZA TADBIR, ELSA MOTHAY, YOUNES SELLAOUI
 
 ## Introduction
 
