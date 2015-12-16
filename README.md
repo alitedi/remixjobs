@@ -60,10 +60,21 @@ url: String
 ### /jobs
 
 * Return all jobs
+```
+we have defined that returns all the jobs(but only for the two first pages on the website)
+```
 * Create a new job
+```
+You have to pass all the necessairy parameters for creating a new job
+```
 * Return information of a job
+```
+You have to pass an id of a job like : 566f5304985c16f302dec238
+```
 * Update a jobs
-
+```
+Update id by its id
+```
 #### Non exhaustive parameters
 
 parameters | description
@@ -83,6 +94,9 @@ limit | Jobs number
 
 * Return all companies
 * Return all jobs of a the given companies
+```
+You can put INTEAM as an exmaple 
+```
 
 ## Jobs model
 
