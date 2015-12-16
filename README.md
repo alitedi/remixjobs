@@ -44,6 +44,19 @@ We could define a job by its
 1. Date
 1. Tags
 
+```
+id: String,
+title: String,
+company: String,
+ville: String,
+date: Date,
+contrat: String,
+category: String,
+tags: [String],
+description: String,
+url: String
+``` `
+
 ### /jobs
 
 * Return all jobs
@@ -66,6 +79,7 @@ limit | Jobs number
 * Return all jobs of the current day
 
 ### /companies
+```
 
 * Return all companies
 * Return all jobs of a the given companies
