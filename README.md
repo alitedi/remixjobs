@@ -55,7 +55,7 @@ category: String,
 tags: [String],
 description: String,
 url: String
-``` `
+```
 
 ### /jobs
 
